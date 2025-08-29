@@ -1,0 +1,23 @@
+body{
+    background-color: pink;
+}
+
+table{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-collapse:collapse ;
+    padding: 300px;
+}
+
+td,th{
+    border: 3px solid #dddd;
+    text-align: left;
+    padding: 8px;
+}
+
+a, h2,h1,hre,scr,img{
+    text-align: center;
+    align-items: center;
+}
+.img_center{
+    text-align: center;
+}
